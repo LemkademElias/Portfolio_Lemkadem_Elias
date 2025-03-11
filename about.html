@@ -29,5 +29,13 @@
         </section>
     </main>
 
+    <script>
+        fetch('footer.html') // 1. On charge le fichier footer.html
+            .then(response => response.text()) // 2. On transforme la réponse en texte
+            .then(data => { // 3. Quand le fichier est chargé, on insère le contenu dans le body de la page
+                document.body.insertAdjacentHTML('beforeend', data);
+            });
+    </script>  
+
 </body>
 </html>
