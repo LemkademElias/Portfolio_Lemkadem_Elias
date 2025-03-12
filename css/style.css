@@ -1,5 +1,9 @@
+html {
+    font-size: 62.5%;
+  }
+
 #logo {
-    width: 5.625em;
+    width: 5.625rem;
     height: auto;
 }
 
@@ -18,14 +22,16 @@
 .nav_link{
     text-decoration: none;
     color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+    transition: all 0.3s ease;
+    font-family: 'Charm';
 }
 
 .nav_link:hover {
     color: rgb(93, 179, 55);
     text-decoration: underline;
     background-color: white;
-    border-radius: 15px;
-    padding: 5px 10px;
 }
 
 header {
@@ -38,8 +44,10 @@ footer {
 
 .heading_footer {
     color: white;
+    font-family: 'Charm';
 }
 
 .paragraph_footer {
     color: white;
+    font-family: 'Roboto';
 }
