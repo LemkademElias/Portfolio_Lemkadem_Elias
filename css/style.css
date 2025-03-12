@@ -35,17 +35,13 @@ header:hover {
 .nav_link{
     text-decoration: none;
     color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 1.5rem;
     transition: all 0.3s ease;
     font-family: 'Charm';
-    font-size: 1.6rem;
+    font-size: 1.8rem;
 }
 
 .nav_link:hover {
-    color: rgb(93, 179, 55);
-    text-decoration: underline;
-    background-color: white;
+    font-size: 2rem;
 }
 
 /*--------BODY----------*/
@@ -63,7 +59,7 @@ h2 {
 
 h3 {
     font-family: 'Charm';
-    font-size: 1.7rem;
+    font-size: 1.9rem;
     color: white;
 }
 
