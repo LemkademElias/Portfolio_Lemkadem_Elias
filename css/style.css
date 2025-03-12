@@ -1,6 +1,10 @@
+/*-----MAIN-----*/
+
 html {
     font-size: 62.5%;
   }
+
+/*-----HEADER-----*/
 
 #logo {
     width: 5.625rem;
@@ -19,21 +23,6 @@ html {
     }
 }
 
-.nav_link{
-    text-decoration: none;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 1.5rem;
-    transition: all 0.3s ease;
-    font-family: 'Charm';
-}
-
-.nav_link:hover {
-    color: rgb(93, 179, 55);
-    text-decoration: underline;
-    background-color: white;
-}
-
 header {
     background-color: #1b2a41;
     transition: all 0.3s ease;
@@ -43,16 +32,56 @@ header:hover {
     background-color: #174b99;
 }
 
-footer {
-    background-color: #1b2a41;
+.nav_link{
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+    transition: all 0.3s ease;
+    font-family: 'Charm';
+    font-size: 1.6rem;
 }
 
-.heading_footer {
+.nav_link:hover {
+    color: rgb(93, 179, 55);
+    text-decoration: underline;
+    background-color: white;
+}
+
+/*--------BODY----------*/
+
+h1 {
+    font-family: 'Charm';
+    font-size: 5rem;
+}
+
+h2 {
     color: white;
     font-family: 'Charm';
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: 'Charm';
+    font-size: 1.7rem;
+    color: white;
 }
 
 .paragraph_footer {
     color: white;
     font-family: 'Roboto';
+    font-size: 1.1rem;
 }
+
+/*-----FOOTER-----*/
+
+footer {
+    background-color: #1b2a41;
+    transition: all 0.3s ease;
+}
+
+footer:hover {
+    background-color: #174b99;
+}
+
+
