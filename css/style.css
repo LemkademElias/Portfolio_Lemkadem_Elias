@@ -1,26 +1,45 @@
-.logo {
+#logo {
     width: 5.625em;
     height: auto;
 }
 
 @media (min-width: 768px) {
-    .logo {
+    #logo {
         width: 8em;
     }
 }
 
 @media (min-width: 1200px) {
-    .logo {
+    #logo {
         width: 10em;
     }
 }
 
-a {
+.nav_link{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
-a:hover {
+.nav_link:hover {
     color: rgb(93, 179, 55);
     text-decoration: underline;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+header {
+    background-color: #1b2a41;
+}
+
+footer {
+    background-color: #1b2a41;
+}
+
+.heading_footer {
+    color: white;
+}
+
+.paragraph_footer {
+    color: white;
 }
