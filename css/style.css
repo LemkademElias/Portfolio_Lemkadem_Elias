@@ -23,18 +23,9 @@ html {
     }
 }
 
-header {
-    background-color: #1b2a41;
-    transition: all 0.3s ease;
-}
-
-header:hover {
-    background-color: #174b99;
-}
-
 .nav_link{
     text-decoration: none;
-    color: white;
+    color: rgb(63, 81, 181);
     transition: all 0.3s ease;
     font-family: 'Charm';
     font-size: 1.8rem;
