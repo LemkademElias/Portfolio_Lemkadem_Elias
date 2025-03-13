@@ -1,7 +1,3 @@
-Bien sûr ! Voici une **fiche de style complète** en **texte brut**, prête à être copiée et collée dans un fichier `.txt`. J’ai retiré les exemples de code, comme demandé.
-
----
-
 FICHE DE STYLE - PORTFOLIO WEB DEVELOPER (COLORFUL TECH)
 
 1. PALETTE DE COULEURS
@@ -118,10 +114,69 @@ FICHE DE STYLE - PORTFOLIO WEB DEVELOPER (COLORFUL TECH)
   - Bouton CTA : Orange vif (#FF9800)
   - Icônes : Indigo (#3F51B5)
 
+9. LOGO
+
+Ah, le logo ! C'est la cerise sur le gâteau d'un site de dev. Si tu veux quelque chose qui colle à l'esprit **colorful tech**, voilà quelques pistes claires pour que ce soit cohérent avec le reste :
+
 ---
 
-FIN DE LA FICHE DE STYLE.
+### 1. **STYLE DU LOGO**
+- **Style général** : Minimaliste avec une touche créative tech (formes géométriques, effet néon discret, ou glitch subtil).
+- **Vibes** : Pro, moderne, fun et dynamique.
+- **Type** : Logotype (basé sur ton prénom/initiales) + un petit symbole.
 
 ---
 
-Si tu veux, on peut aussi rédiger le **contenu textuel** de chaque section, genre Hero, À propos, etc. Dis-moi si ça t’intéresse !
+### 2. **ÉLÉMENTS POSSIBLES**
+- **Symbole simple** :  
+  - Une **lettre stylisée** (comme un "E" ou "EL" pour Elias Lemkadem).  
+  - Une **forme géométrique** (hexagone, carré, cercle) avec un effet de dégradé ou de ligne épurée.  
+  - Une **icône tech** simplifiée (comme un chevron `>` ou un curseur).  
+  - Une **connexion** symbolisée (des points reliés, un nœud réseau minimal).
+
+---
+
+### 3. **PALETTE COULEUR DU LOGO**
+- **Couleur principale** : Indigo (#3F51B5)  
+- **Accent secondaire** : Magenta (#E91E63)  
+- **Détails ou effet dégradé** : Orange vif (#FF9800) → Rose magenta (#E91E63)  
+- **Fond recommandé si besoin** : Blanc cassé (#FAFAFA) ou Transparent  
+
+---
+
+### 4. **TYPOGRAPHIE**
+- **Police** :  
+  - **Montserrat Bold** ou **Poppins Semi-Bold** (pour un look moderne, lisible, carré).  
+  - Evite les polices trop fantaisie, garde ça propre et tech.  
+- **Style** :  
+  - Majuscules ou Capitales  
+  - Tracking (espacement des lettres) un peu élargi  
+  - Option : rajouter une **barre horizontale ou un underscore** (exemple : `EL_` ou `Elias.`)
+
+---
+
+### 5. **FORME ET FORMAT**
+- **Format** :  
+  - Carré pour le favicon  
+  - Horizontal pour le site (à mettre dans le header)  
+- **Version** :  
+  - Colorée sur fond clair  
+  - Blanc sur fond sombre  
+  - Monochrome (noir ou blanc) pour les documents pro et signatures  
+
+---
+
+### 6. **IDÉES SIMPLES À FAIRE**
+- Exemple 1 :  
+  - Un hexagone indigo avec un "E" en négatif  
+- Exemple 2 :  
+  - "EL" stylisé en dégradé Orange → Magenta, avec une petite icône code (comme `</>`)  
+- Exemple 3 :  
+  - Ton prénom “Elias” en Montserrat, avec un point coloré à la fin (genre **Elias.**) où le point est en Magenta et pulse doucement en anim  
+- Exemple 4 :  
+  - Un curseur de souris intégré dans une lettre (genre le “A” de Elias)
+
+---
+
+Si tu veux, je peux t'en **croquer un ou deux en image** ou te faire un fichier vectoriel vite fait !  
+Tu veux partir sur **initiales** ou **prénom complet** ?
