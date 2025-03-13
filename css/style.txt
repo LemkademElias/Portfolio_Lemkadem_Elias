@@ -1,0 +1,127 @@
+Bien sûr ! Voici une **fiche de style complète** en **texte brut**, prête à être copiée et collée dans un fichier `.txt`. J’ai retiré les exemples de code, comme demandé.
+
+---
+
+FICHE DE STYLE - PORTFOLIO WEB DEVELOPER (COLORFUL TECH)
+
+1. PALETTE DE COULEURS
+
+- Fond principal : Blanc cassé (#FAFAFA)
+- Texte principal : Anthracite (#2E2E2E)
+- Titre principal (H1) : Indigo (#3F51B5)
+- Sous-titres (H2, H3) : Gris foncé (#444444)
+- Call-to-Action (CTA) : Orange vif (#FF9800)
+- Accent secondaire : Rose magenta (#E91E63)
+- Bordures et séparateurs : Gris clair (#E0E0E0)
+- Background section secondaire : Bleu très clair (#F0F4FF)
+
+2. TYPOGRAPHIE
+
+- Titres H1
+  - Police : Montserrat
+  - Style : Uppercase
+  - Taille : 48px
+  - Poids : 700 (Bold)
+
+- Titres H2
+  - Police : Montserrat
+  - Style : Capitalize
+  - Taille : 36px
+  - Poids : 600 (Semi-bold)
+
+- Titres H3
+  - Police : Montserrat
+  - Style : Normal
+  - Taille : 28px
+  - Poids : 500 (Medium)
+
+- Paragraphe
+  - Police : Roboto
+  - Style : Normal
+  - Taille : 18px
+  - Poids : 400 (Regular)
+
+- Boutons et CTA
+  - Police : Montserrat
+  - Style : Uppercase
+  - Taille : 16px
+  - Poids : 600 (Semi-bold)
+
+- Liens et menus
+  - Police : Roboto
+  - Style : Normal
+  - Taille : 16px
+  - Poids : 500 (Medium)
+
+3. BOUTONS (CALL-TO-ACTION)
+
+- Couleur de fond : Orange vif (#FF9800)
+- Couleur du texte : Blanc (#FFFFFF)
+- Padding : 15px haut/bas - 35px gauche/droite
+- Bord-radius : 6px
+- Couleur de fond au survol (hover) : Rose magenta (#E91E63)
+- Couleur du texte au survol : Blanc (#FFFFFF)
+- Transition : 0.3 secondes sur toutes les propriétés
+
+4. LIENS ET NAVIGATION
+
+- Couleur du texte : Indigo (#3F51B5)
+- Couleur du texte au survol : Rose magenta (#E91E63)
+- Taille de police : 16px
+- Espacement entre les liens de menu : 20px
+- Effet au survol : Transition de 0.2 secondes, souligné (border-bottom)
+
+5. STRUCTURE ET LAYOUT
+
+- Largeur maximale du container : 1140px (centré)
+- Système de grille : Flex ou Grid (2 à 3 colonnes selon la section)
+- Hauteur des sections : 100vh pour la Hero section, min-height 600px pour les autres sections
+- Padding global : 60px haut/bas - 20px gauche/droite
+- Espacement entre les blocs : de 40px à 80px
+
+6. EFFETS ET ANIMATIONS
+
+- Hover sur images : Agrandissement (scale 1.05) avec une ombre légère
+- Animations d’apparition : Effet fade-in avec déplacement vertical (translateY) en 0.5 secondes
+- Hover sur les boutons CTA : Transition fluide sur la couleur et l’ombre en 0.3 secondes
+- Défilement fluide (smooth scroll) : Activé sur toute la page
+
+7. ICONES ET VISUELS
+
+- Pack d’icônes conseillé : Feather Icons ou Font Awesome
+- Style des icônes : Ligne claire, minimaliste
+- Couleur des icônes : Indigo (#3F51B5) par défaut, Rose magenta (#E91E63) au survol
+- Taille des icônes : 24px pour les menus, 32px pour les sections importantes
+
+8. HIERARCHIE EXEMPLE SUR LA PAGE D’ACCUEIL
+
+- Section Hero
+  - Fond : Blanc cassé (#FAFAFA)
+  - Titre : Indigo (#3F51B5)
+  - Bouton CTA : Orange vif (#FF9800)
+
+- Section À propos
+  - Fond : Bleu très clair (#F0F4FF)
+  - Titres : Indigo (#3F51B5)
+  - Texte : Gris foncé (#444444)
+
+- Section Services
+  - Fond : Blanc (#FFFFFF)
+  - Cartes avec ombres légères et accents Orange (#FF9800) et Magenta (#E91E63)
+
+- Section Portfolio
+  - Grille d’images, hover sur les images avec effet magenta
+  - Titres Indigo (#3F51B5)
+
+- Section Contact
+  - Formulaire sur fond Bleu très clair (#F0F4FF)
+  - Bouton CTA : Orange vif (#FF9800)
+  - Icônes : Indigo (#3F51B5)
+
+---
+
+FIN DE LA FICHE DE STYLE.
+
+---
+
+Si tu veux, on peut aussi rédiger le **contenu textuel** de chaque section, genre Hero, À propos, etc. Dis-moi si ça t’intéresse !
