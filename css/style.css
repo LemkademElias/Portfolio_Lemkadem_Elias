@@ -60,13 +60,15 @@ html {
     align-items: center;
 
     background: 
-      linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 155, 252, 0.4)),
-      url("assets/images/hero_image_dev_working.webp")
+      linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 155, 252, 0.4)),
+      url("../assets/images/hero_image_dev_working.webp")
       center / cover no-repeat fixed;
 }
   
 
 h1 {
+    color: rgb(240, 240, 240);
+    -webkit-text-stroke: 1.2px rgb(63, 81, 181); /* Bordure de texte de couleur */
     font-family: 'Charm';
     font-size: 5rem;
 }
@@ -171,13 +173,6 @@ h3 {
 
 /*-----FOOTER-----*/
 
-footer {
-    background-color: #1b2a41;
-    transition: all 0.3s ease;
-}
 
-footer:hover {
-    background-color: #174b99;
-}
 
 
