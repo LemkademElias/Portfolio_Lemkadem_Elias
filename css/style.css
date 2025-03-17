@@ -58,6 +58,7 @@ header {
 }
 
 .nav_link:hover {
+    transform: scale(1.05);
     font-size: 2.1rem;
     font-weight: 600;
 }
