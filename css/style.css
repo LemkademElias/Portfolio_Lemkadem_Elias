@@ -63,8 +63,8 @@ header {
   padding: 1rem 2rem;
 
   /* ✅ On met le dégradé directement sur chaque lien */
-  background: linear-gradient(90deg, #E91E63 20%, #FF9800 80%);
-  background-size: 500%; /* optionnel : agrandit le dégradé pour un effet continu */
+  background: radial-gradient(circle, rgb(233, 30, 99), rgb(255, 152, 0));
+  /*background-size: 500%; optionnel : agrandit le dégradé pour un effet continu */
   
   color: transparent;
   background-clip: text;
@@ -112,6 +112,7 @@ nav ul {
 /*--------BODY----------*/
 
 .hero_image {
+    position: relative;
     height: 100vh;
     width: 100%;
     
@@ -128,9 +129,9 @@ nav ul {
 .hero_image::before {
     content: "";
     position:absolute;
-    top: 100px;
+    top: 0;
     left: 0;
-    height: calc(100% - 100px);
+    height: 100%;
     width: 100%;
     background: rgba(255, 255, 255, 0.2);
     z-index: 1; /* derrière le contenu */
@@ -169,12 +170,12 @@ h2 {
     font-size: 2rem;
     cursor: pointer;
     border-radius: 2rem;
-    transition: font-size 0.3s ease;
+    transition: all 0.5s ease;
     box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
 }
 
 #button_about_me:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
     background-color: rgb(0, 116, 211);
 }
 
