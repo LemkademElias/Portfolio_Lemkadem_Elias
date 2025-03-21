@@ -170,7 +170,7 @@ h2 {
     font-size: 2rem;
     cursor: pointer;
     border-radius: 2rem;
-    transition: all 0.5s ease;
+    transition: transform 0.2s ease, background-color 0.5s ease, background 0.5s ease;
     box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
 }
 
@@ -179,14 +179,31 @@ h2 {
     background-color: rgb(0, 116, 211);
 }
 
+#button_about_me:active {
+    transform: scale(0.8);
+    background: linear-gradient(rgb(233, 30, 99), rgb(255, 152, 0));
+}
+
+section:nth-of-type(2) h4, section:nth-of-type(2) p{
+    color: rgb(80, 3, 247);
+}
+
+section:nth-of-type(2) h4:hover {
+    color: rgb(3, 149, 247);
+}
+
+section:nth-of-type(2) h4:hover + p {
+    color: rgb(3, 149, 247);
+}
+
 h3 {
     font-family: 'Charm';
     font-size: 1.9rem;
-    color: white;
+    color: rgb(144, 18, 18);
 }
 
 .paragraph_footer {
-    color: white;
+    color: rgb(122, 11, 11);
     font-family: 'Roboto';
     font-size: 1.1rem;
 }
